@@ -1,6 +1,6 @@
 A single-page portfolio application built with React that allows users to view, search, and add projects.
 
-Features
+## Features
 
 View existing projects.
 
@@ -12,7 +12,7 @@ Display a message when no projects match the search.
 
 Responsive design.
 
-Technologies
+## Technologies
 
 React
 
@@ -26,15 +26,15 @@ Vitest
 
 React Testing Library
 
-Installation
+## Installation
 
 npm install
 npm run dev
 
-Running Tests
+## Running Tests
 
 npx vitest run
 
-Author
+## Author
 
 Mark Mwichigi
